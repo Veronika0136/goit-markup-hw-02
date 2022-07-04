@@ -1,0 +1,40 @@
+:root{
+    /* font */
+    --main-font:"Roboto", sans-serif;
+    --secondery-font:"Raleway", sans-serif;
+    /* txt colors */
+    --main-txt-cl:#212121;
+    --accent-txt-cl:#2196F3;
+    /* bg colors */
+    --dark-bg-cl:#2F303A;
+    --light-bg-cl:#F5F4FA;
+    /* others */
+}
+   /* политра
+
+FFFFFF
+757575
+000000
+2F303A
+ECECEC
+    F5F4FA */
+body{
+    font-family: var(--main-font);
+    color: var(--main-txt-cl);
+}
+    /* reset styles */
+.link{
+    text-decoration: none;
+    color: currentColor;
+}    
+.list{
+    list-style:none ;
+}
+
+
+    /* Header section */
+    /* Hero section */
+    /* Features section */
+    /* Specialization section */
+    /* Team section */
+    /* Footer section */
