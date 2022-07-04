@@ -30,9 +30,16 @@ body{
 .list{
     list-style:none ;
 }
-
-
     /* Header section */
+    .header{}
+    .header-nav{}
+    .header-logo{}
+    .header-nav-list{}
+    .header-nav-item{}
+    .header-nav-link{}
+    .header-list{}
+    .header-item{}
+    .header-link{}
     /* Hero section */
     /* Features section */
     /* Specialization section */
