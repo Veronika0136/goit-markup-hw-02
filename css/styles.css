@@ -41,8 +41,14 @@ body {
   font-size: 26px;
   line-height: calc(31 / 26);
   letter-spacing: 0.03em;
+}
+.logo-light {
+  color: #ffffff;
+}
+.logo-dark {
   color: #000000;
 }
+
 .log {
   color: var(--accent-txt-cl);
 }
@@ -141,4 +147,16 @@ body {
 /* Footer section */
 .footer {
   background-color: var(--dark-bg-cl);
+}
+.footer-ads {
+  font-style: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+.footer-ads-txt {
+  color: #ffffff;
+}
+.footer-ads-link {
+  color: rgba(255, 255, 255, 0.6);
 }
