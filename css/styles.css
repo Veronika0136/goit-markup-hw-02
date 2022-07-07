@@ -141,16 +141,16 @@ body {
 .footer {
   background-color: var(--dark-bg-cl);
 }
-.footer-ads {
+.footer-list {
   font-style: normal;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
 }
-.footer-ads-txt {
+.footer-list-txt {
   color: #ffffff;
 }
-.footer-ads-link {
+.footer-list-link {
   color: rgba(255, 255, 255, 0.6);
 }
 /* Portfolio sectuion
